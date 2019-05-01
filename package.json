@@ -1,0 +1,22 @@
+{
+  "name": "typescript-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdstar/typescript-examples.git"
+  },
+  "author": "wdstar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wdstar/typescript-examples/issues"
+  },
+  "homepage": "https://github.com/wdstar/typescript-examples#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
